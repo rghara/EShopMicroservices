@@ -1,6 +1,6 @@
 ﻿using BuildingBlocks.Exceptions;
 
-namespace Basket.API.Exceptions;
+namespace Basket.Api.Exceptions;
 
 public class BasketNotFoundException : NotFoundException
 {
